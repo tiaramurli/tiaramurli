@@ -18,7 +18,8 @@ I'm a multidisciplinary tech explorer with hands-on experience in:
 ---
 
 ### 🧰 Tech I'm exploring:
-`Python` · `Pandas` · `Streamlit` · `Figma` · `Jupyter Notebook` · `SQL`  
+`HTML5` . `CSS` . `JavaScript`. `Node.js` . `Python` · `Pandas` 
+`Streamlit` · `Figma` · `Jupyter Notebook` · `SQL`  
 Also dabbling with: `Langchain` · `Gemini API` · `OCR` · `Cloud AI APIs`
 
 ---
