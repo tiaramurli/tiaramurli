@@ -4,7 +4,7 @@ I'm a multidisciplinary tech explorer with hands-on experience in:
 
 - 🏭 Manufacturing - Project Development
 - 🏥 Healthcare - Hospital administration project
-- 🤖 AI data operations: data collection, labeling, evaluation
+- 🤖 AI data operations: data collection, annotating, labeling, evaluation
 - 💻 UI/UX, Web Prototyping, and a bit of front-end design
 - 🧠 Currently transitioning into AI & Data Engineering
 
